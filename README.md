@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeur Backend & Formateur|<br>Expert en développement web moderne et pédagogie active
+Développeur Backend & Formateur<br>Expert en développement web moderne et pédagogie active
 
 
 ## 🌐 Socials:
